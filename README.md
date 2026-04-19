@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Hawaii
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `269701` |
 | Location | Hawaii |
 | Category | Food and Drink |
-| Full dataset size | 151 records |
-| Free sample size | 15 records (9.93%) |
-| Last export | 2026-04-09T19:26:54.670028+00:00 |
+| Full dataset size | 203 records |
+| Free sample size | 20 records (9.85%) |
+| Last export | 2026-04-16T22:58:09.238163+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-269701/releases/download/sample-latest/beamstation_269701_food_and_drink-us-hi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
